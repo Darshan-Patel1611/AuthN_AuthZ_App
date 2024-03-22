@@ -1,6 +1,3 @@
-Here's a README.md file template you can use for your Node.js backend project:
-
-```markdown
 # Node.js Authentication Backend Project
 
 This project is a Node.js backend application with authentication and authorization functionality, using JSON Web Tokens (JWT) for authentication, bcrypt for password encryption, and MongoDB with Mongoose for the database.
